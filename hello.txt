@@ -4,3 +4,4 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
+version 2 added!
