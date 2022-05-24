@@ -3,5 +3,5 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-Hello Git!
+Hello Git! Hot fixed!
 version 2 added!
